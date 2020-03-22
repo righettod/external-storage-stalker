@@ -1,4 +1,4 @@
-[![Build status](https://build.appcenter.ms/v0.1/apps/e90829e5-e9b2-465e-b8f6-aca658db1b3d/branches/master/badge)](https://appcenter.ms)
+[![Build status](https://build.appcenter.ms/v0.1/apps/c0df5249-a95b-4f08-ac63-e8e78ca4447f/branches/master/badge)](https://appcenter.ms)
 
 # External Storage Stalker
 
